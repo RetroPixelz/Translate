@@ -1,7 +1,7 @@
 # Translate
 
 <div align="center">
-    <img src="./public/robot.png" alt="" width="250" />
+    <img src="./public/robot.png" alt="" width="150" />
     <h1> Translate </h1>
 </div>
 
